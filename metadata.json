@@ -1,0 +1,5 @@
+{
+  "name": "Jobright Apply Assistant",
+  "description": "An intelligent assistant to streamline job applications on the jobright.ai portal. Upload your resume, set your criteria, and let the assistant find relevant roles, pre-fill applications, and guide you through a one-click submission process.",
+  "requestFramePermissions": []
+}

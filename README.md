@@ -129,8 +129,6 @@ Key principles:
 
 This repository contains everything needed to run the application locally.
 
-🔗 **View the version of the app in AI Studio:**  
-https://ai.studio/apps/drive/1FufZXuijAvVLPxeoO5OUdjKd5302jA47
 
 ### Clone the Repository
 ```bash
